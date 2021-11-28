@@ -1,10 +1,8 @@
-# XXX collection
+# legislation collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/legislation-collection/blob/main/LICENSE)
 
-A collection of XXX collected from YYY.
-
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema/ZZZ/).
+A collection of legislation policies and categories.
 
 # Collection
 
@@ -25,7 +23,7 @@ We recommend working in [virtual environment](http://docs.python-guide.org/en/la
 
 # Nightly collection
 
-The collection is [updated nightly](https://github.com/digital-land/ZZZ/actions) by the [GitHub Action](.github/workflows/run.yml).
+The collection is [updated nightly](https://github.com/digital-land/legislation-collection/actions) by the [GitHub Action](.github/workflows/run.yml).
 
 # Building the national dataset
 
