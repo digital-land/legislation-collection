@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 permitted-development-right,,,1A,11500001
 permitted-development-right,,,1B,11500002
 permitted-development-right,,,1C,11500003
