@@ -1,4 +1,4 @@
-# legislation collection
+# legislation collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/legislation-collection/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/legislation-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/legislation-collection/actions/workflows/run.yml)
